@@ -1,0 +1,25 @@
+body{
+  background-color: black;
+}
+#box {
+    width: 400px;
+    height: 460px;
+    overflow: auto;
+    margin: auto;
+    padding: 20px;
+    top:50%;
+    border: 13px solid #b61414;
+    border-radius: 10px;
+    position:relative;
+    transform: translate(0, 10%);
+    background-color: white;
+  }
+  h1 {
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    
+  }
+  h1:hover {
+    background: whitesmoke;
+  }
